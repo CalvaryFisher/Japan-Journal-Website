@@ -47,3 +47,27 @@ This would require setting up a login system, different admin users, etc.
 - Add blog posts and details
 - Promote on LinkedIn and Portfolio Site
 ## Performance Optimization
+
+# Resources:
+[The Design Resources for Developers Repo](https://github.com/bradtraversy/design-resources-for-developers#html--css-templates) - Seriously Amazing!
+
+
+# Acknowledgements:
+## For the beautiful *Story* template used in my front-page, credit goes to:
+AJ
+aj@lkn.io | @ajlkn
+
+Please take a look at the other gorgeous templates at AJ's website [HTML5 UP!](https://www.example.com) and follow AJ on X @ajlkn for encouraging dev tweets! (I release all responsibility if AJ loses his mind and starts tweeting crazy things!)
+
+### Credits for the Story Template:
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
