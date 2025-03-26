@@ -1,5 +1,6 @@
 # Purpose:
-My Japan Journal Website will serve as a digital scrapbook for my family’s trip to Japan and other experiences with Japanese culture (such as learning the language, getting ready for the trip, etc.)
+My Japan Journal Website will serve as a digital scrapbook for my family’s trip to Japan! 📑🗾✈️
+It will also share other experiences with Japanese culture (such as learning the language, getting ready for the trip, etc.)
 
 # Features:
 1. ### Webpages show pictures, text, etc.
