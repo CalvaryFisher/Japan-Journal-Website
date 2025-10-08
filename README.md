@@ -4,13 +4,12 @@ My Japan Journal Website will serve as a digital scrapbook for my family’s tri
 # Features:
 1. ### Webpages show pictures, text, etc.
 
-2. ### I want a pretty main page that leads to 3 main areas:
-1) Topical areas i.e. Culture, Faith, Cuisine, etc. (Easiest)
-2) Search bar for topics and articles. (A common functionality on many websites)
-3) Timeline / Map of journey with clickable links to blog posts and resources on those areas. (More complex & requires more creativity.)
+2. ### I want a pretty main page:
+- Introduces website
+- Allows user to navigate to a blog post for each city
 
-3. ### I want small blog posts with pictures, text, animations, videos, links, etc.
-4. ### Stretch goals:
+4. ### I want small blog posts with pictures, text, animations, videos, links, etc.
+5. ### Stretch goals:
 - Dark Mode Toggle
 - A blog writing feature that makes it easy for me to submit text, pictures, etc. to the website.
 This would require setting up a login system, different admin users, etc.
